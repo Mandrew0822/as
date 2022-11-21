@@ -6,6 +6,7 @@ A simple ls copy for unix-like operating systems!
 Installation:
 
 [Make sure to download the .zip file from github and extract it to your home directory]
+
 in terminal...
 -  gcc as.c
 -  mv a.out as
